@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1649603047 source:d:\file_cpp\gamesdl\gamedemo\painter.cpp
+	"Painter.h"
+
+1649602994 d:\file_cpp\gamesdl\gamedemo\painter.h
+	"SDL_utils.h"
+
+1649272010 source:d:\file_cpp\gamesdl\gamedemo\sdl_utils.cpp
+	"SDL_utils.h"
+
+1649272280 d:\file_cpp\gamesdl\gamedemo\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<math.h>
+	<SDL_image.h>
+	"Painter.h"
+
+1652775359 source:d:\file_cpp\gamesdl\gamedemo\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"SDL_utils.h"
+	"Painter.h"
+	"baseObj.h"
+	"tankObject.h"
+	<vector>
+	<SDL_mixer.h>
+
+1649272535 source:d:\file_cpp\gamesdl\gamedemo\baseoject.cpp
+	"baseOject.h"
+
+1649442046 d:\file_cpp\gamesdl\gamedemo\baseoject.h
+	"Painter.h"
+
+1651576708 source:d:\file_cpp\gamesdl\gamedemo\baseobj.cpp
+	"baseObj.h"
+
+1651576560 d:\file_cpp\gamesdl\gamedemo\baseobj.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Painter.h"
+	"SDL_utils.h"
+	<time.h>
+	"stdlib.h"
+	<vector>
+
+1651135609 source:d:\file_cpp\gamesdl\gamedemo\tankobject.cpp
+	"tankObject.h"
+	<vector>
+
+1651136064 d:\file_cpp\gamesdl\gamedemo\tankobject.h
+	"SDL_utils.h"
+	"baseObj.h"
+	"tankBulletObject.h"
+	<vector>
+
+1651136611 d:\file_cpp\gamesdl\gamedemo\tankbulletobject.h
+	"baseObj.h"
+
+1651058260 source:d:\file_cpp\gamesdl\gamedemo\tankbulletobject.cpp
+	"tankBulletObject.h"
+	"tankObject.h"
+
+1651046659 d:\file_cpp\gamesdl\gamedemo\a.h
+	<vector>
+
