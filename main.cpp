@@ -192,8 +192,9 @@ int main(int argc , char* argv[])
         }
         if( numLife <= 0 ) isContinue = false;
         tankObj.show( renderer );
-
         SDL_RenderPresent(renderer);
+        SDL_DestroyTexture(BgTexture);
+
     }
     cout << result << endl;
     int numNum = 0;
