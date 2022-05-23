@@ -14,6 +14,7 @@ Báo cáo cho GameSDLDemo
      -Di chuyển  qua các nút
      -Bắn đạn qua chuột
      -Menu đầu và kết quả cuốt game
+     -Link video https://drive.google.com/file/d/1FlamR9HbHbGIN7robUX4GSso3OHCz_vW/view?usp=sharing
   IV. Các kĩ thuật 
      -Mảng: đạn, máy bay,...
      -Con trỏ
