@@ -66,4 +66,4 @@
  
       +Biết thêm cách đọc đồ họa.
  
-      +Gặp những bug đầu tiên và tìm được các fix bug.
+      +Gặp những bug đầu tiên và tìm được các fix bug( tràn RAM).
